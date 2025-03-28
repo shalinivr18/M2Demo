@@ -1,5 +1,6 @@
 package sample;
 
-public class demo {
+public class demo  {
+
 
 }
